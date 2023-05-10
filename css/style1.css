@@ -1,8 +1,12 @@
-#first-ul, #scnd-ul{  
+#first-ul, #scnd-ul{ 
+    margin-top: 60px; 
     font-weight: bolder;
     font-size: larger;
     color:white;
-    margin-left: 20%;
+    display: grid;
+    
+    justify-content: center;
+    margin-right: 20px;
 }
 
 
@@ -21,8 +25,6 @@
 
 
 #scnd-ul {
-    margin-left: 60%;
-    margin-bottom: 60px;
     color:lightblue;
     font-size: 2vw;
 }
@@ -47,7 +49,19 @@ h2 {
 	height:202px;
 }
 
+#name {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 220px;
+}
 
+    #nav-list {
+        margin-right: 295px;
+    }
 
-
+#sponsor div {
+    display: flex;
+    text-align: center;
+}
 

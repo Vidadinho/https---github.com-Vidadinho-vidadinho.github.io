@@ -1,0 +1,231 @@
+@media screen and (max-width:460px) {
+    #header .navbar-brand { width: 360px; height: 30px; margin-bottom: 70px;} 
+  }
+  
+  @media screen and (max-width:290px) {
+    #header .navbar-brand { width: 260px; height: 70px; margin-bottom: 70px;} 
+    #center {margin-top: 30px;}
+  }
+  
+  /********************edit media query *************/
+  
+  @media screen and (max-width:1199px) {
+    #name {
+      margin-left: 170px;
+  }
+  
+    #nav-list {
+      margin-right: 145px;
+  }
+  }
+  
+  @media screen and (max-width:991px) {
+    #name {
+      margin-left: 50px;
+  }
+  
+    #nav-list {
+      margin-top: 40px;
+      margin-right: 45px;
+  }
+  }
+  
+  @media screen and (max-width:767px) {
+    #header .navbar-brand {margin-bottom: 70px;}
+  }
+  
+  @media screen and (max-width:760px) {
+    #motto {margin-top: 40px;}
+  }
+  
+  @media screen and (max-width:740px) {
+    #motto {margin-top: 40px;}
+    #name {margin-left:40px;}
+  }
+  
+  @media screen and (max-width:711px) {
+    #motto {margin-top: 40px;}
+    #name {margin-left:20px;}
+  }
+  
+  @media screen and (max-width:691px) {
+    #motto {margin-top: 40px;}
+    #name {margin-left:10px;}
+  }
+  
+  @media screen and (max-width:781px) {
+    #motto {margin-top: 40px;}
+    #name {margin-left:5px;}
+  }
+  
+  @media screen and (max-width:676px) {
+    #motto {margin-top: 40px;}
+    #name {margin-left:0px;}
+  }
+  
+  @media screen and (max-width:671px) {
+    #motto {margin-top: 40px;}
+    #name {margin-left: -5px;}
+  }
+  
+  @media screen and (max-width:666px) {
+    #motto {margin-top: 40px;}
+    #name {margin-left: -10px;}
+    #nav-list {margin: auto;}
+  }
+  
+  @media screen and (max-width:661px) {
+    #motto {margin-top: 40px;}
+    #name {margin-right: -40px;}
+    #nav-list {margin: auto;}
+  }
+  
+  @media screen and (max-width:645px) {
+    #motto {margin-top: 40px;}
+    #name {margin-left: -20px;}
+    #nav-list {margin: auto;}
+  }
+  
+  @media screen and (max-width:621px) {
+    #motto {margin-top: 40px;}
+    #name {margin-left: -25px;}
+    #nav-list {margin: auto;}
+  }
+  
+  @media screen and (max-width:616px) {
+    #motto {margin-top: 40px;}
+    #name {margin-left: -30px;}
+    #nav-list {margin: auto;}
+  }
+  
+  @media screen and (max-width:601px) {
+    #motto {margin-top: 60px;}
+    #name {margin-left: -30px;}
+    #nav-list {margin: auto;}
+    #header .navbar-brand {margin-bottom: 100px;}
+  }
+  
+  @media screen and (max-width:489px) {
+    #motto {margin-top: 60px;}
+    #name {margin-left: -37px;}
+    #nav-list {margin: auto;}
+    #header .navbar-brand {margin-bottom: 100px;}
+  }
+  
+  @media screen and (max-width:499px) {
+    #motto {margin-top: 60px;}
+    #name {margin-left: -40px;}
+    #nav-list {margin: auto;}
+    #header .navbar-brand {margin-bottom: 100px;}
+  }
+  
+  @media screen and (max-width:499px) {
+    #motto {margin-top: 60px;}
+    #name {margin-left: -40px;}
+    #nav-list {margin: auto;}
+    #header .navbar-brand {margin-bottom: 100px;}
+  }
+  
+  @media screen and (max-width:499px) {
+    #motto {margin-top: 60px;}
+    #name {margin-left: -38px;}
+    #nav-list {margin: auto;}
+    #header .navbar-brand {margin-bottom: 100px;}
+  }
+  
+  @media screen and (max-width:484px) {
+    #motto {margin-top: 60px;}
+    #name {margin-left: -20px; margin-right: 5px;}
+    #nav-list {margin: auto;}
+    #header .navbar-brand {margin-bottom: 100px;}
+  }
+  
+  
+  
+  @media screen and (max-width:466px) {
+    #motto {margin-top: 60px;}
+    #name {margin-left: -38px;}
+    #nav-list {margin: auto;}
+    #header .navbar-brand {margin-bottom: 100px;}
+  }
+  
+  
+  @media screen and (max-width:460px) {
+    #motto {margin-top: 60px;}
+    #name {margin-left: 0px;}
+    #nav-list {margin: auto;}
+    #header .navbar-brand {margin-bottom: 120px;}
+  }
+  
+  @media screen and (max-width:373px) {
+    #motto {margin-top: 60px;}
+    #name {margin-left: 0px; margin-right: 10px;}
+    #nav-list {margin: auto;}
+    #header .navbar-brand {margin-bottom: 120px;}
+  }
+  
+  @media screen and (max-width:358px) {
+    #motto {margin-top: 60px;}
+    #name {margin-left: -20px;}
+    #nav-list {margin: auto;}
+    #header .navbar-brand {margin-bottom: 120px;}
+  }
+  
+  
+  @media screen and (max-width:344px) {
+    #motto {margin-top: 60px;}
+    #name {margin-left: -50px;}
+    #nav-list {margin: auto;}
+    #header .navbar-brand {margin-bottom: 120px;}
+  }
+  
+  @media screen and (max-width:316px) {
+    #motto {margin-top: 60px;}
+    #name {margin-left: -70px;}
+    #nav-list {margin: auto;}
+    #header .navbar-brand {margin-bottom: 120px;}
+  }
+  
+  @media screen and (max-width:309px) {
+    #motto {margin-top: 160px;}
+    #name {margin-left: 10px; margin-right: 100px;}
+    #nav-list {margin: auto;}
+    #header .navbar-brand {margin-bottom: 190px;}
+  }
+  
+  
+  @media screen and (max-width:280px) {
+    #motto {margin-top: 160px;}
+    #name {margin-left: 50px;}
+    #nav-list {margin: auto;}
+    #header .navbar-brand {margin-bottom: 190px;}
+  }
+  
+  @media screen and (max-width:260px) {
+    #motto {margin-top: 160px;}
+    #name {margin-left: 30px;}
+    #nav-list {margin: auto;}
+    #header .navbar-brand {margin-bottom: 190px;}
+  }
+  
+  @media screen and (max-width:236px) {
+    #motto {margin-top: 160px;}
+    #name {margin-left: 10px;}
+    #nav-list {margin: auto;}
+    #header .navbar-brand {margin-bottom: 190px;}
+  }
+  
+  @media screen and (max-width:207px) {
+    #motto {margin-top: 160px;}
+    #name {margin-left: 0px;}
+    #nav-list {margin: auto;}
+    #header .navbar-brand {margin-bottom: 190px;}
+  }
+  
+  @media screen and (max-width:192px) {
+    #motto {margin-top: 160px;}
+    #name {margin-left: -10px;}
+    #nav-list {margin: auto;}
+    #header .navbar-brand {margin-bottom: 190px;}
+  }
+  
