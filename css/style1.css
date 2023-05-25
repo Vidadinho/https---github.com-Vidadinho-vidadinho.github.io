@@ -65,3 +65,8 @@ h2 {
     text-align: center;
 }
 
+#gallery {
+    align-items: center;
+    justify-content: center;
+    display: grid;
+}

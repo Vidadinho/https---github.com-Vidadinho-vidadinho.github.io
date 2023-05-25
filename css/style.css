@@ -34,6 +34,7 @@ h1, #motto{
        justify-content: center;
        align-items: center;
        text-align: center;
+       display: grid;
        }
 .header_1 ul{
              padding-top:10px;
