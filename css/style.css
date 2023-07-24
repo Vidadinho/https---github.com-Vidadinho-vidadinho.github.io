@@ -880,8 +880,10 @@ font-size:50px;
 
 
 /* footer social icons */
-#footer .social-network a.icoRss:hover {
-	background-color:#000000;
+#footer .social-network a.icoInsta:hover {
+	
+  background: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 }
 #footer .social-network a.icoFacebook:hover {
 	background-color:#3B5998;
@@ -889,8 +891,9 @@ font-size:50px;
 #footer .social-network a.icoTwitter:hover {
 	background-color:#33ccff;
 }
-#footer .social-network a.icoGoogle:hover {
-	background-color:#BD3518;
+#footer .social-network a.icoTiktok:hover {
+	background: linear-gradient(to right, #FF0000, #FFFFFF);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 }
 #footer .social-network a.icoVimeo:hover {
 	background-color:#0590B8;
@@ -898,7 +901,7 @@ font-size:50px;
 #footer .social-network a.icoLinkedin:hover {
 	background-color:#007bb7;
 }
-#footer .social-network a.icoRss:hover i, .social-network a.icoFacebook:hover i, .social-network a.icoTwitter:hover i,
+#footer .social-network a.icoInsta:hover i, .social-network a.icoFacebook:hover i, .social-network a.icoTwitter:hover i,
 #footer .social-network a.icoGoogle:hover i, .social-network a.icoVimeo:hover i, .social-network a.icoLinkedin:hover i {
 	color:#fff;
 }
